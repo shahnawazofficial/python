@@ -1,0 +1,2 @@
+a="python is not a easy language"
+print(list(a))
