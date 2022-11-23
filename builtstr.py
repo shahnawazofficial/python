@@ -1,0 +1,12 @@
+a=("world is FULL of nagativity")
+b="."
+print(a.capitalize())
+print(a.upper())
+print(a.lower())
+print(a.title())
+print(a.swapcase())
+print(a.split())
+print(a.split(","))
+print(a.isupper())
+print(a.islower())
+print(a.isalpha())
